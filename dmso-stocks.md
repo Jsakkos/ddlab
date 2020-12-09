@@ -1,6 +1,8 @@
 # Long term storage of Synechococcus strains:
 **TL;DR Store strains in 0.5% DMSO.**
 
+## Making stocks
+
 - Take 3 mL of cells from mid to late exponential cultures and pellet by centrifugation.
 (These can be divided into 1.5mL portions and centrifuged on desktop centrifuges at max power for ~5 minutes or larger volumes can be handled in Falcon tubes in the large Sorval rotor; 4000rpm for 10 minutes.  Spin down at 10C)
 
