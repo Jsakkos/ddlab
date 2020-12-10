@@ -27,8 +27,8 @@
 - Sample preparation
 
 ### Lab Maintenance
-- Lab chores(https://docs.google.com/spreadsheets/d/145UGTj8QYPuyl_qr3zmrOT00kUBmNJ8WytAHvVw_j9U/edit?usp=sharing)
-- Consumables (https://drive.google.com/file/d/1n_QkQlkBJoamv1DuRYUDYGL0Tr2GwvIE/view?usp=sharing)
+- [Lab chores](https://docs.google.com/spreadsheets/d/145UGTj8QYPuyl_qr3zmrOT00kUBmNJ8WytAHvVw_j9U/edit?usp=sharing)
+- [Consumables] (https://drive.google.com/file/d/1n_QkQlkBJoamv1DuRYUDYGL0Tr2GwvIE/view?usp=sharing)
 ### Equipment
 
 - ePBR setup
