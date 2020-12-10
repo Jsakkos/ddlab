@@ -32,3 +32,9 @@
 ### Equipment
 
 - ePBR setup
+
+### Inventory
+- [Quartzy](https://app.quartzy.com/groups/187110/inventory)
+- [Google Drive](https://drive.google.com/drive/folders/0BzrUCF88jo7kc1lWdHdCb3Qzdzg?usp=sharing)
+
+
