@@ -21,7 +21,7 @@
 
 ### Microscopy
 
-- Zeiss Observer D1 operation
+- [Zeiss Observer D1 operation](zeiss-observer.md)
 - Zen quickstart
 - Agarose pad
 - Sample preparation
@@ -37,5 +37,3 @@
 - [Quartzy](https://app.quartzy.com/groups/187110/inventory)
 - [Google Drive](https://drive.google.com/drive/folders/0BzrUCF88jo7kc1lWdHdCb3Qzdzg?usp=sharing)
 - [Benchling](https://benchling.com/organizations/ducatlab/projects)
-
-
