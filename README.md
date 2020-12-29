@@ -22,7 +22,6 @@
 ### Microscopy
 
 - [Zeiss Observer D1 operation](zeiss-observer.md)
-- Zen quickstart
 - Agarose pad
 - Sample preparation
 
