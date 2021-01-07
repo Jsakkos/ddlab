@@ -24,6 +24,7 @@
 - [Zeiss Observer D1 operation](zeiss-observer.md)
 - Agarose pad
 - Sample preparation
+- [Data storage](image-data.md)
 
 ### Lab Maintenance
 - [Lab chores](https://docs.google.com/spreadsheets/d/145UGTj8QYPuyl_qr3zmrOT00kUBmNJ8WytAHvVw_j9U/edit?usp=sharing)
