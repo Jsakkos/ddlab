@@ -32,3 +32,6 @@ Microwell chambers made from PDMS are hydrophobic and need to be treated with a 
 13. Remove samples from chamber.
 14. Add liquid to microwells and ensure even distribution.
 15. Bond the PDMS to the coverslip, removing any excess liquid with a kimwipe or pipette.
+
+### References
+https://ocw.mit.edu/courses/health-sciences-and-technology/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/labs/plasma_bonding.pdf
