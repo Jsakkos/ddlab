@@ -6,7 +6,7 @@ OMERO is an image repository for organizing, analyzing, and sharing image data
 
 ### Create an account
 
-1. Go to the [signup page](https://35.8.197.106/signup/) and create an account.
+1. Go to the [signup page](http://35.8.197.106/signup/) and create an account.
 1. 1. If you are connected to the MSU network, enter your login and password to connect.
 1. 1. If you are not connected to the MSU network, first connect via [VPN](https://new.vpn.msu.edu) before attempting to login.
 
@@ -22,7 +22,7 @@ OMERO is an image repository for organizing, analyzing, and sharing image data
 Full walkthrough can be found [here](https://omero-guides.readthedocs.io/en/latest/upload/docs/import-desktop-client.html)
 
 ### Viewing/analyzing data
-1. Login to the [web portal](https://35.8.197.106) (ignore the warning and continue).
+1. Login to the [web portal](http://35.8.197.106) (ignore the warning and continue).
 1. [Image viewing walkthrough](https://omero-guides.readthedocs.io/en/latest/iviewer/docs/iviewer_viewing.html)
 1. [Making ROIs](https://omero-guides.readthedocs.io/en/latest/iviewer/docs/iviewer_rois.html)
 1. [Working in Fiji](https://omero-guides.readthedocs.io/en/latest/fiji/docs/manual_analysis.html)
