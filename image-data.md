@@ -31,5 +31,6 @@ Full walkthrough can be found [here](https://omero-guides.readthedocs.io/en/late
 1. Python
    - [Guide](https://omero-guides.readthedocs.io/en/latest/python/docs/index.html)
    - [Example Jupyter Notebooks](https://github.com/ome/omero-guide-python)
+   - [Detailed developer guide](https://docs.openmicroscopy.org/omero/5.6.3/developers/Python.html)
 
 For more information see the [OMERO Documentation](https://omero-guides.readthedocs.io/en/latest/index.html)
