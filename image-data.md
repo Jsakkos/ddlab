@@ -34,3 +34,8 @@ Full walkthrough can be found [here](https://omero-guides.readthedocs.io/en/late
    - [Detailed developer guide](https://docs.openmicroscopy.org/omero/5.6.3/developers/Python.html)
 
 For more information see the [OMERO Documentation](https://omero-guides.readthedocs.io/en/latest/index.html)
+
+### Example notebooks
+- [OMERO Hello World](https://github.com/Jsakkos/microtools/blob/main/notebooks/OMEROHelloWorld.ipynb)
+- [Segmentation](https://github.com/Jsakkos/microtools/blob/main/notebooks/Segmentation.ipynb)
+- [Average Cell](https://github.com/Jsakkos/microtools/blob/main/notebooks/Average%20cell%20from%20mask.ipynb)
