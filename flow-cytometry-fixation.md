@@ -7,7 +7,7 @@
 4. NaOH
 
 ### Prepare fixation solution
-- 2g paraformaldehyde
+- 1g paraformaldehyde
 - 100 mL PBS (1X), use 10 mL PBS and 90 mL DI water if using 10X directly
 
 1. Heat solution to 70°C in fume hood for 1 hr.
@@ -21,7 +21,7 @@
 - PBS, 4°C
 
 1. Pellet cells by centrifugation.
-2. Resuspend cells in fixation solution and incubate for 15-30 mins on ice.
+2. Resuspend cells in fixation solution and incubate for 30 mins on ice.
 3. Wash twice with PBS.
 
 ### Stain DNA
